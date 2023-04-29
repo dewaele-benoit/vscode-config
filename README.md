@@ -6,3 +6,4 @@
 * git lens
 * git graph
 * Prettier
+* IntelliJ IDEA Keybindings
